@@ -1,0 +1,33 @@
+Age : tranche d’âge mais est-ce qu’on prend l’âge précis ?
+Age de l’individu : en différence de millésime (AGEM) ou en années révolues (AGER) ?
+
+Situation vécue le plus longtemps par l’enquêté avant 18 ans (foyer des parents, résidence, protection de l’enfance…) 
+F_SITLONG
+
+PCS de la première personne ayant élevé l’enquêté : F_CS13C
+
+Pays de naissance de la première personne ayant élevé l’enquêté : F_PNAISCR
+
+Vie de couple des parents de l’enquêté au moment de l’enquêté : F_SEPPAR
+
+Nombre de relations importantes au cours de la vie : H_NBREL
+
+Enquêté s’est déjà inscrit sur un site de rencontre : I_DEJA
+
+PCS de l’enquêté : soit 13 postes (M_CS13) ou 8 postes (M_CS8) ?
+
+Niveau scolaire le plus élevé atteint par l’enquêté : M_DIPL1
+
+Nationalité regroupée de l’enquêté : M_NATIOR
+
+Revenus nets mensuels de l’enquêté (par tranches) : M_REVENUF
+
+Sentiment d’avoir de bonnes chances de rencontrer quelqu’un : P_CHANCE
+
+Sentiment d’exclusion dû au célibat : P_EXCLU
+
+Raison de la situation amoureuse actuelle : P_SATSITU
+
+Religion de l’enquêté : R_RELIGION
+
+Sexe de l’enquêté : M_SEXE
